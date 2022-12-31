@@ -1,1 +1,1 @@
-# JavaDichotimicSearch
+# JavaDichotomicSearch
